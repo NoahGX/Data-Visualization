@@ -1,11 +1,11 @@
 # Data Visualization
 
 ## Overview
-This project provides examples and techniques for visualizing data using popular Python libraries such as Matplotlib, Seaborn, and Plotly by covering a range of visualizations, including heatmaps, scatter plots, and correlations. It also includes an analysis of a baby dataset to explore factors affecting birth weights and maternal health, as well as exploring of Kepler's third law with planetary data.
+This project provides examples and techniques for visualizing data using popular Python libraries such as Matplotlib, Seaborn, and Plotly by covering a range of visualizations, including heatmaps, scatter plots, and correlations. It also includes analysis of a baby dataset to explore factors affecting birth weights and maternal health, as well as exploring of Kepler's third law with planetary data.
 
 ## Features
 - Data visualization using **Matplotlib**, **Seaborn**, and **Plotly**.
-- Heatmaps created to identify nand recognize patterns in data.
+- Heatmaps created to identify and recognize patterns in data.
 - Scatter plot visualization of planetary data in relation to **Kepler's third law**.
 - Analysis and visualization of a baby dataset for insights into birth weights and maternal health.
 
